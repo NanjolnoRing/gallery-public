@@ -2,10 +2,570 @@
   "version": "v6",
   "data": [
     {
+      "id": "DSC01832",
+      "title": "DSC01832",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:48.205Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01832.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01832.webp",
+      "thumbHash": "97e70d15864c8a979f8788628899877989a0d50c2b",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01832.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 953889,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 36,
+        "contrast": 51,
+        "shadowRatio": 0.46,
+        "highlightRatio": 0.14
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01723",
+      "title": "DSC01723",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:47.763Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01723.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01723.webp",
+      "thumbHash": "dc450a25840ed978968a8787889889770378c72f57",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01723.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 776875,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 36,
+        "contrast": 43,
+        "shadowRatio": 0.64,
+        "highlightRatio": 0.14
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01717",
+      "title": "DSC01717",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:47.619Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01717.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01717.webp",
+      "thumbHash": "194606158647f4663827c9937e94559501aa870986",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01717.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 901708,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 33,
+        "contrast": 40,
+        "shadowRatio": 0.67,
+        "highlightRatio": 0.08
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01847",
+      "title": "DSC01847",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:47.516Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01847.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01847.webp",
+      "thumbHash": "d6f70915826f4567bc687873759789730d95fd4a8a",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01847.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 900641,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 34,
+        "contrast": 52,
+        "shadowRatio": 0.53,
+        "highlightRatio": 0.16
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
       "id": "DSC01481",
       "title": "DSC01481",
       "description": "",
-      "dateTaken": "2025-09-01T08:30:16.635Z",
+      "dateTaken": "2025-09-01T08:32:47.092Z",
+      "tags": [
+        "thumbnails"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/thumbnails/DSC01481.webp",
+      "thumbnailUrl": "/thumbnails/DSC01481.webp",
+      "thumbHash": "55570a0d863451849ab898917bc76580d0550ad848",
+      "width": 600,
+      "height": 400,
+      "aspectRatio": 1.5,
+      "s3Key": "thumbnails/DSC01481.webp",
+      "lastModified": "2025-09-01T08:32:25.946Z",
+      "size": 77072,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 30,
+        "contrast": 41,
+        "shadowRatio": 0.66,
+        "highlightRatio": 0.08
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC406801",
+      "title": "DSC406801",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:46.796Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC406801.jpg",
+      "thumbnailUrl": "/thumbnails/DSC406801.webp",
+      "thumbHash": "51780d0d8a5794789a87768088a67787aaafa106e7",
+      "width": 4782,
+      "height": 3153,
+      "aspectRatio": 1.516650808753568,
+      "s3Key": "photos/DSC406801.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 342276,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 32,
+        "contrast": 47,
+        "shadowRatio": 0.52,
+        "highlightRatio": 0.09
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01877",
+      "title": "DSC01877",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:46.730Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01877.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01877.webp",
+      "thumbHash": "57e70915840c9879538777889878877724b0a40639",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01877.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 868919,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 36,
+        "contrast": 43,
+        "shadowRatio": 0.59,
+        "highlightRatio": 0.12
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01625",
+      "title": "DSC01625",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:46.199Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01625.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01625.webp",
+      "thumbHash": "d9460a0d84f798636c678983698888667c60be4b04",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01625.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 883851,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 34,
+        "contrast": 48,
+        "shadowRatio": 0.67,
+        "highlightRatio": 0.14
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01545",
+      "title": "DSC01545",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:45.373Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01545.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01545.webp",
+      "thumbHash": "18680e0d864f679969967788778878894faaf64859",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01545.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 1854101,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 36,
+        "contrast": 48,
+        "shadowRatio": 0.48,
+        "highlightRatio": 0.04
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01543",
+      "title": "DSC01543",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:45.290Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01543.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01543.webp",
+      "thumbHash": "9688060d823d637c508a66a486cb698c709e8ba5a0",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01543.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 941908,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 33,
+        "contrast": 36,
+        "shadowRatio": 0.63,
+        "highlightRatio": 0.09
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01588",
+      "title": "DSC01588",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:45.259Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01588.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01588.webp",
+      "thumbHash": "5bf7090d822f7977679887867898778700780b40c6",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01588.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 1310793,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 42,
+        "contrast": 37,
+        "shadowRatio": 0.35,
+        "highlightRatio": 0.06
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01583",
+      "title": "DSC01583",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:45.236Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01583.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01583.webp",
+      "thumbHash": "1dc70515823f3a98588a779786876878507807422b",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01583.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 1811180,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 45,
+        "contrast": 36,
+        "shadowRatio": 0.27,
+        "highlightRatio": 0.06
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01582",
+      "title": "DSC01582",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:45.220Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01582.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01582.webp",
+      "thumbHash": "1bc7050d822f5b986899869786987778046b7b70a9",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01582.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 1666478,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 43,
+        "contrast": 35,
+        "shadowRatio": 0.31,
+        "highlightRatio": 0.06
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01556",
+      "title": "DSC01556",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:45.209Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01556.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01556.webp",
+      "thumbHash": "5c68060d86684a6d17799a5f67794b9bbdbff5876c",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01556.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 3402322,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 43,
+        "contrast": 34,
+        "shadowRatio": 0.25,
+        "highlightRatio": 0.03
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01548",
+      "title": "DSC01548",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:45.190Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01548.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01548.webp",
+      "thumbHash": "5d780605865c59a80879986b95686a7babcff3866c",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01548.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 2648691,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 44,
+        "contrast": 41,
+        "shadowRatio": 0.32,
+        "highlightRatio": 0.07
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01519",
+      "title": "DSC01519",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:40.078Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01519.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01519.webp",
+      "thumbHash": "dc7505158207263884bd97979a885878f878838c03",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01519.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 1452345,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 42,
+        "contrast": 38,
+        "shadowRatio": 0.39,
+        "highlightRatio": 0.11
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01512",
+      "title": "DSC01512",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:40.042Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01512.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01512.webp",
+      "thumbHash": "d717120d826f75879a8888667788887860850a23b7",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01512.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 1110979,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 36,
+        "contrast": 52,
+        "shadowRatio": 0.52,
+        "highlightRatio": 0.09
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01541",
+      "title": "DSC01541",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:39.419Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01541.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01541.webp",
+      "thumbHash": "58b90a258808b756627c85b577b86999906b03cb24",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01541.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 826134,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 36,
+        "contrast": 37,
+        "shadowRatio": 0.51,
+        "highlightRatio": 0.11
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01539",
+      "title": "DSC01539",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:39.397Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01539.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01539.webp",
+      "thumbHash": "dbf70d0d82809867876988867897778707a284017c",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01539.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 1132128,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 42,
+        "contrast": 43,
+        "shadowRatio": 0.51,
+        "highlightRatio": 0.15
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01493",
+      "title": "DSC01493",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:38.801Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01493.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01493.webp",
+      "thumbHash": "d457062d8c09d93557787979878577769f97f78c7a",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01493.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 762542,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "low-key",
+        "brightness": 29,
+        "contrast": 47,
+        "shadowRatio": 0.75,
+        "highlightRatio": 0.09
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01481",
+      "title": "DSC01481",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:38.239Z",
       "tags": [
         "photos"
       ],
@@ -16,7 +576,7 @@
       "height": 4000,
       "aspectRatio": 1.5,
       "s3Key": "photos/DSC01481.jpg",
-      "lastModified": "2025-09-01T08:25:13.646Z",
+      "lastModified": "2025-09-01T08:32:25.899Z",
       "size": 925813,
       "exif": null,
       "toneAnalysis": {
@@ -24,6 +584,60 @@
         "brightness": 30,
         "contrast": 41,
         "shadowRatio": 0.67,
+        "highlightRatio": 0.09
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC01496",
+      "title": "DSC01496",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:38.218Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01496.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01496.webp",
+      "thumbHash": "9b5505358c9e37aa4f9688a5878886779085095999",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01496.jpg",
+      "lastModified": "2025-09-01T08:32:25.899Z",
+      "size": 2097131,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 41,
+        "contrast": 35,
+        "shadowRatio": 0.29,
+        "highlightRatio": 0.05
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    },
+    {
+      "id": "DSC406801",
+      "title": "DSC406801",
+      "description": "",
+      "dateTaken": "2025-09-01T08:32:38.132Z",
+      "tags": [],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/DSC406801.jpg",
+      "thumbnailUrl": "/thumbnails/DSC406801.webp",
+      "thumbHash": "51780d0d8a5794789a87768088a67787aaafa106e7",
+      "width": 4782,
+      "height": 3153,
+      "aspectRatio": 1.516650808753568,
+      "s3Key": "DSC406801.jpg",
+      "lastModified": "2025-09-01T08:32:25.851Z",
+      "size": 342276,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 32,
+        "contrast": 47,
+        "shadowRatio": 0.52,
         "highlightRatio": 0.09
       },
       "isLivePhoto": false,
