@@ -1,0 +1,35 @@
+{
+  "version": "v6",
+  "data": [
+    {
+      "id": "DSC01481",
+      "title": "DSC01481",
+      "description": "",
+      "dateTaken": "2025-09-01T08:30:16.635Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://raw.githubusercontent.com/NanjolnoRing/gallery-public/main/photos/DSC01481.jpg",
+      "thumbnailUrl": "/thumbnails/DSC01481.webp",
+      "thumbHash": "55570a0d863451849ab898917bc76580d0550ad848",
+      "width": 6000,
+      "height": 4000,
+      "aspectRatio": 1.5,
+      "s3Key": "photos/DSC01481.jpg",
+      "lastModified": "2025-09-01T08:25:13.646Z",
+      "size": 925813,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 30,
+        "contrast": 41,
+        "shadowRatio": 0.67,
+        "highlightRatio": 0.09
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    }
+  ],
+  "cameras": [],
+  "lenses": []
+}
